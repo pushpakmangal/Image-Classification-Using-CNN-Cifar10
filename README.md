@@ -1,8 +1,8 @@
-### Image-Classification-Using-CNN-Cifar10
-## Problem Statement
+## Image-Classification-Using-CNN-Cifar10
+### Problem Statement
 To Classify images using CNN
 
-## Description
+### Description
 1. CIFAR-10 is a dataset that consists of several images divided into the following 10 classes:
   Airplanes
   Cars
